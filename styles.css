@@ -9,7 +9,11 @@ body {
 }
 
 #searchButton {
-    width: 39%;
+    width: 25%;
+}
+
+.btn-success {
+    width: 14%;
 }
 
 ul {
